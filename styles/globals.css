@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+
+.gradient-background {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 1) 20%, rgba(253, 45, 221, 1) 35%, rgba(36, 183, 204, 1) 47%, rgba(255, 0, 74, 1) 59%, rgba(66, 49, 12, 1) 65%, rgba(0, 0, 0, 1) 80%);
+}
